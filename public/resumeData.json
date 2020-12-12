@@ -1,92 +1,100 @@
 {
   "main": {
-    "name": "Sonny Sangha",
-    "occupation": "ReactJS Developer && Instructor @CleverProgrammer",
-    "description": "Full Stack React Developer by Day, Founder && Freelancer by Night. #papaReact",
-    "image": "IG_Sonny.jpeg",
-    "bio": "My name is Sonny, I'm a Full Stack ReactJS Developer. Currently I'm working at Clever Programmer while also coaching ",
-    "contactmessage": "Get in touch with me to receive further details, get coached or anything else.",
-    "email": "sonny@cleverprogrammer.com",
-    "phone": "+44 12 345 6789",
+    "name": "Alex Muriithi",
+    "occupation": "Full Stack Developer,Java Springboot and  ReactJs developer",
+    "description": "Full Stack React Developer by Day,",
+    "image": "Alex.jpeg",
+    "bio": "My Name is Alex Maina. I am Software developer and Quality Assurance engineer with experience in desktop application development, web application development, mobile application development, automation testing tools and techniques. I am a team player with an open mind to welcome new ideas, techniques to achieve solutions. I am open to new Opportunities",
+    "contactmessage": "Get in touch with me for further details.",
+    "email": "maina.alex2010@gmail.com",
+    "phone": "+254 726690702",
     "address": {
-      "street": "123 Fake Street",
-      "city": "London",
-      "state": "UK",
-      "zip": "ABC 123"
+      "street": "Kerugoya",
+      "city": "Nairobi",
+      "state": "Kenya",
+      "zip": "343 Kerugoya"
     },
     "website": "http://www.timbakerdev.com",
     "resumedownload": "http://timbakerdev.com",
     "social": [
-      {
-        "name": "facebook",
-        "url": "https://www.facebook.com/sonny.sangha.3",
-        "className": "fa fa-facebook"
-      },
+     
       {
         "name": "linkedin",
-        "url": "https://www.linkedin.com/in/saajansangha/",
+        "url": "linkedin.com/in/alex-maina-b399a2155",
         "className": "fa fa-linkedin"
       },
       {
-        "name": "instagram",
-        "url": "https://www.instagram.com/ssssangha/",
-        "className": "fa fa-instagram"
-      },
-      {
         "name": "github",
-        "url": "http://github.com/sonnysangha",
+        "url": "https://github.com/EasyCoder1",
         "className": "fa fa-github"
       }
     ]
   },
   "resume": {
-    "skillmessage": "Here you can create a short write-up of your skills to show off to employers",
+    "skillmessage": "Current skills and expertise level",
     "education": [
       {
-        "school": "University of Kent",
-        "degree": "Masters in Advanced Computer Science",
-        "graduated": "January 2017",
-        "description": "Graduated with Distinction"
+        "school": "Jaramogi Oginga Odinga University of Science and technology",
+        "degree": "Bachelor of Science Business Information Systems",
+        "graduated": "January 2019",
+        "description": "Graduated with Second Class Upper Honours"
+      },   {
+        "school": "Kamuiru Boys Secondary School",
+        "degree": "KCSE",
+        "graduated": "December 2014",
+        "description": "Achieved a Mean grade of B"
       }
     ],
     "work": [
       {
-        "company": "Clever Programmer",
-        "title": "Team Member && React Specialist",
-        "years": "April 2020 - Present",
-        "description": "Teaching ReactJS to thousands of students."
+        "company": "EasyLogic Ltd",
+        "title": "Software Developer and  IT project manager",
+        "years": "February - Present",
+        "description": "Mapping Clients requirements to system requirement, Designing system architecture of desktop Point of sale application, Coding the POS application backend in Java springboot,Writing Unit tests for the POS applications, Automating tests, Managing project lifecycle from Initiation to closure, Designing projects work breakdown structure between a team of developers, Setting up Github version control for projects,Deploying prototypes as Docker Containers."
       },
       {
-        "company": "Lindar Media",
-        "title": "Software Engineer",
-        "years": "Nov 2019 - April 2020",
-        "description": "Building MrQ, a gambling website."
+        "company": "Kenya Industrial Property Institute",
+        "title": "IT Intern",
+        "years": "May 2018 - August 2020",
+        "description": "LAN management, ERP System trainer,Regularly updating of computer software for company staff, Managing all IT hardware of the organization (installation, set up and maintenance), Planning for upgrades and software changes to increase efficiency, In charge of domain and email registration as was required by the company, Assisting in computer repairs and troubleshooting, Assisting ICT head in troubleshooting database related problems"
       }
     ],
     "skills": [
       {
-        "name": "ReactJs",
-        "level": "100%"
+        "name": "Java Springboot",
+        "level": "90%"
       },
       {
-        "name": "CSS",
-        "level": "95%"
+        "name": "JavaFX",
+        "level": "90%"
+      },
+      {
+        "name": "MySQL, MSSQL",
+        "level": "90%"
       },
       {
         "name": "Git",
+        "level": "70%"
+      },
+      {
+        "name": "ReactJs",
         "level": "60%"
       },
       {
-        "name": "Figma && Adobe XD",
-        "level": "55%"
+        "name": "JavaScript",
+        "level": "60%"
       },
       {
-        "name": "HTML5",
+        "name": "JUNIT",
         "level": "80%"
       },
       {
-        "name": "MongoDB",
-        "level": "80%"
+        "name": "JENKINS",
+        "level": "65%"
+      },
+      {
+        "name": "Android",
+        "level": "60%"
       }
     ]
   },
@@ -127,12 +135,12 @@
   "testimonials": {
     "testimonials": [
       {
-        "text": "Here you should write some nice things that someone has said about you. No lies though, employers can tell when you are lying.",
-        "user": "Kareem Abdul Jabbar"
+        "text": "Alex is a brillant software developer and a great team player.",
+        "user": "Alex Waiganjo -Quality Assurance, Cellulant Ltd "
       },
       {
-        "text": "That Sonny Sangha must be one of the most brilliant developers I've ever met! It is amazing that nobody has hired him yet. Hey you, you should hire this guy, he may be fresh out of University and have zero on the job experience but I am confident that he will be one of your best developers in no time!",
-        "user": "Steve Wozniak... impersonator"
+        "text": " Alex may be fresh from University and have little on job experience, but am confident he will make it to top of your best developers in no time..",
+        "user": "Ben Muchina -Director, EasyLogic Ltd"
       }
     ]
   }
