@@ -1,6 +1,6 @@
 {
   "name": "personalportfolio",
-  "homepage": "http://easycoder1.github.io/Portfolio",
+  "homepage": "http://easycoder1.github.io/resume", 
   "version": "0.1.0",
   "private": true,
   "dependencies": {
